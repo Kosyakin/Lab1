@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Matrix\BlurFilter.cs" />
+    <Compile Include="Matrix\MoutionBlur.cs" />
+    <Compile Include="Matrix\SeaEffect.cs" />
+    <Compile Include="Matrix\SharpnessDop.cs" />
     <Compile Include="Matrix\SharpnessFilter.cs" />
     <Compile Include="Matrix\SobelFilter.cs" />
     <Compile Include="Matrix\TisFilter.cs" />
